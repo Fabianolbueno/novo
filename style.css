@@ -5,10 +5,10 @@ body{
     margin: 0px;
 }
 reader{
-    border-bottom: solid 8px rgb(42,122,228);
+    border-bottom: dotted 8px rgb(42,122,228);
     padding: 20px;
     font-size: 35px;
-    color: rgb(42,122,228);
+    color: rgb(35, 117, 224);
 }
 h1{font-size: 30px;}
 p{
