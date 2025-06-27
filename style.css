@@ -6,6 +6,7 @@ body{
 }
 reader{
     border-bottom: solid 8px rgb(42, 122, 228);
+    padding: 20px;
 }
 h1{font-size: 30px;}
 p{
