@@ -17,10 +17,13 @@ p{
 }
 section{
     background-color: rgb(184, 156, 213);
-    padding-bottom: 50px;
-    padding-top: 50px;
+    padding-bottom: 80px;
+    padding-top: 80px;
     display: flex;
-    
+   justify-content: center; 
+    div{
+        margin-right: 5px;
+    }
 
     
 }
