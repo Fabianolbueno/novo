@@ -14,3 +14,9 @@ h1{font-size: 30px;}
 p{
     font-size: 30px;
 }
+section{
+    background-color: rgb(184, 156, 213);
+    padding-bottom: 50px;
+    padding-top: 50px;
+    
+}
